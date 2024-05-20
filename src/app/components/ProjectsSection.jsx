@@ -16,11 +16,11 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Stack Overflow Clone",
-    description: "A Stack Overflow Clone working similar to stack overflow which answers queries of users solved by other users increasing community.",
+    title: "Film Harbour",
+    description: "A website where you buy, rent or sell your movies and users can add reviews to it",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/vamshi1905/Stack-Overflow-Clone",
+    gitUrl: "https://github.com/vamshi1905/Film-Harbour",
     previewUrl: "/",
   },
   {
